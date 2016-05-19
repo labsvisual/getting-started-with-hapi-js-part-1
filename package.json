@@ -1,0 +1,25 @@
+{
+  "name": "getting-started-with-hapi-js-part-1",
+  "version": "1.0.0",
+  "description": "Getting started with Hapi.js -- Part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labsvisual/getting-started-with-hapi-js-part-1.git"
+  },
+  "author": "Shreyansh Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labsvisual/getting-started-with-hapi-js-part-1/issues"
+  },
+  "homepage": "https://github.com/labsvisual/getting-started-with-hapi-js-part-1#readme",
+  "dependencies": {
+    "babel-core": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "hapi": "^13.4.0"
+  }
+}
